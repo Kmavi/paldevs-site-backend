@@ -1,0 +1,19 @@
+{
+  "name": "paldevs-site-backend",
+  "version": "1.0.0",
+  "description": "This is the official backend of the paldevs site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmavi/paldevs-site-backend.git"
+  },
+  "author": "Kingsley Ihemelandu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kmavi/paldevs-site-backend/issues"
+  },
+  "homepage": "https://github.com/Kmavi/paldevs-site-backend#readme"
+}
